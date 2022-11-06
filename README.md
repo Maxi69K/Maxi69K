@@ -1,13 +1,16 @@
 ### Hi there 👋 My name is Goran Kekez
 
+- 🔭 I’m currently working on @chingu-voyages
+- 🌱 I’m currently learning React & NodeJS
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=maxi69k" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=maxi69k" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+- 📫 How to reach me:
 <div align="left">
   <a href="mailto:webdevelopermaxi@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
