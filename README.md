@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Goran Kekez
 
 - 🔭 I’m currently working on @chingu-voyages
-- 🌱 I’m currently learning React, Redux & NodeJS
+- 🌱 I’m currently learning NodeJS
 - I know:
 <div align="left" style="background-color:#FFFFFF">
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
