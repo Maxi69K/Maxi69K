@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning NodeJS
 - I know:
 <div align="left" style="background-color:#FFFFFF">
+  <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="42" alt="wordpress logo"  />
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
