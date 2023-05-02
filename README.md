@@ -18,7 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://icongr.am/simple/affinitydesigner.svg?size=100&color=009dff&colored=false" height="30" width="42" alt="affinity logo"  />
 </div>
-
+</br>
+<div align="left" style="background-color:#FFFFFF">
+Look :point_right:  <a href="https://webdesign-serbia.eu.org">My Projects</a> :point_left: just do a CTRL+click (to open :link: in a new tab)
+ </div>
+ </br>
 - 📫 How to reach me:
 <div align="left">
   <a href="mailto:webdevelopermaxi@gmail.com">
