@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Goran Kekez
 
 - 🔭 I’m currently working on @chingu-voyages
-- 🌱 I’m currently learning NodeJS, PHP and MySQL
+- 🌱 I’m currently learning NodeJS, PHP and SQL
 - I know:
 <div align="left" style="background-color:#FFFFFF">
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="42" alt="wordpress logo"  />
