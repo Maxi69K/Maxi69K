@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Goran Kekez
 
 - 🔭 I’m currently working on @chingu-voyages
-- 🌱 I’m currently learning NodeJS, PHP and SQL & MySQL
+- 🌱 I’m currently learning NodeJS
 - I know:
 <div align="left" style="background-color:#FFFFFF">
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/wordpress/wordpress-plain.svg" height="30" width="42" alt="wordpress logo"  />
@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="42" alt="webpack logo"  />
+  <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/php/php-plain.svg" height="30" width="42" alt="php"  />
+  <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://icongr.am/simple/affinitydesigner.svg?size=100&color=009dff&colored=false" height="30" width="42" alt="affinity logo"  />
