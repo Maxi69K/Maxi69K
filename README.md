@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="42" alt="webpack logo"  />
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/php/php-plain.svg" height="30" width="42" alt="php"  />
   <img src="https://raw.githubusercontent.com/Maxi69K/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="mysql"  />
+  <img src="https://github.com/Maxi69K/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" width="42" alt="mongodb"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://icongr.am/simple/affinitydesigner.svg?size=100&color=009dff&colored=false" height="30" width="42" alt="affinity logo"  />
