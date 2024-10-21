@@ -24,7 +24,7 @@
 </div>
 </br>
 <div align="left" style="background-color:#FFFFFF">
-Look :point_right:  <a href="https://webdesign-serbia.eu.org">My Projects</a> :point_left: just do a CTRL+click (to open :link: in a new tab)
+Look :point_right:  <a href="https://gorankekez-portfolio.eu.org/projects">My Projects</a> :point_left: just do a CTRL+click (to open :link: in a new tab)
  </div>
  </br>
 - 📫 How to reach me:
